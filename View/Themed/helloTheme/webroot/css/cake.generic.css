@@ -1,0 +1,24 @@
+body {
+	background: #aaffaa;
+	color: #006600;
+	margin: 0;
+}
+#header {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#content {
+	background: #eeffee;
+	color: #009900;
+	padding: 10px 20px 40px 20px;
+}
+
+#footer {
+	text-align: center;
+}
+
+h1 {
+	font-size: 12pt;
+}
+
