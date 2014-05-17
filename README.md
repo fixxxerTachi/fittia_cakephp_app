@@ -8,4 +8,7 @@ Controller / OrdersController.php
 Controller / LensController.php  
 会員登録処理  
 Controller / UsersController.php  
+受注処理  
+<http://fittia.fixxxxxer.com/admin/> username: admin password: admin  
+Controller / AdminController.php
 
